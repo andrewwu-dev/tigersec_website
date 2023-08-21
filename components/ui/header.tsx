@@ -26,7 +26,7 @@ export default function Header() {
             {/* Desktop sign in links */}
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
-                <Link href="/signup" className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
+                <Link href="" className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
                   Contact
                 </Link>
               </li>
